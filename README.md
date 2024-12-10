@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kashish Dadghaye</h1>
-<h3 align="center">A passionate frontend developer with interest in voding and programming languages.</h3>
+<h3 align="center">A passionate frontend developer with interest in coding and programming languages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1shish09&label=Profile%20views&color=0e75b6&style=flat" alt="k1shish09" /> </p>
 
-- 🔭 I’m currently working on **front-end projects.**
+- 🔭 I’m currently working on **front-end development projects.**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 Currently gaining hands-on experience as a **Front-end Intern.**
 
-- 📫 How to reach me **dadghayekashish@gmail.com**
+- 📫 You can reach me at **dadghayekashish@gmail.com**.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
