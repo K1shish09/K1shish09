@@ -7,7 +7,7 @@
 
 
 - 🌱 Currently gaining hands-on experience as a **Front-end Intern.**
-- <img src="https://github.com/user-attachments/assets/5d59465a-89c7-45e1-9116-04523be5eec1" alt="Description of the GIF" width="200" align="left" />
+- <img src="https://github.com/user-attachments/assets/5d59465a-89c7-45e1-9116-04523be5eec1" alt="Description of the GIF" width="300" align="right" />
 - 📫 You can reach me at **dadghayekashish@gmail.com**.
 
 
