@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **front-end development projects.**
 
-- 🌱 Currently gaining hands-on experience as a **Front-end Intern.**
-
-![My-OctocatsShortest](https://github.com/user-attachments/assets/5d59465a-89c7-45e1-9116-04523be5eec1)
+- 🌱 Currently gaining hands-on experience as a **Front-end Intern.** ![My-OctocatsShortest](https://github.com/user-attachments/assets/5d59465a-89c7-45e1-9116-04523be5eec1)
 
 - 📫 You can reach me at **dadghayekashish@gmail.com**.
 
