@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k1shish09&label=Profile%20views&color=0e75b6&style=flat" alt="k1shish09" /> </p>
 
-- 🔭 I’m currently working on **front-end development projects.**
+- 🔭  I’m currently focused on developing dynamic and responsive front-end applications.**
 
 
-- 🌱 Currently gaining hands-on experience as a **Front-end Intern.**
+- 🌱 Sharpening my skills as a Front-end Intern, gaining practical knowledge on projects.**
   <img src="https://github.com/user-attachments/assets/5d59465a-89c7-45e1-9116-04523be5eec1" alt="Description of the GIF" width="400" align="right" />
 - 📫 You can reach me at **dadghayekashish@gmail.com**.
 
